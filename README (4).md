@@ -14,7 +14,7 @@ as you turn the two most important hyperparameters.
 ## What the tutorial covers
 
 1. Why a linear model fails on non-linearly-separable data, and what the RBF kernel adds.
-2. `γ` (gamma) as a **complexity dial** — from underfitting to overfitting.
+2. `γ` (gamma) as a **complexity dial**  from underfitting to overfitting.
 3. The **overfitting signature**: training accuracy rises while test accuracy turns over.
 4. `C` as the **soft-margin dial**, and why `C` and `γ` interact.
 5. Tuning both together honestly with **5-fold cross-validation**.
